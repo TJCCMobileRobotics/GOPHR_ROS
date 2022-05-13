@@ -3,3 +3,5 @@ GOPHR's ROS files. These files were used on a Raspberry Pi 4 4gb running Ubuntu 
 
 Download and place the 'froze_east_text_detection.pb' file into gophr_hardware/scripts
 https://github.com/oyyd/frozen_east_text_detection.pb
+
+Make sure to enable UART2 and SPI on the Raspberry Pi 4
